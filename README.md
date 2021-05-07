@@ -32,7 +32,7 @@ public class HelloWorld {
 4. CSS
 ```css
 body:before{
-    content: "Hello, Word!";
+    content: "Hello, World!";
 }
 ```
 5. Python
