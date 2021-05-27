@@ -58,8 +58,6 @@ int main(){
 ```cpp
 void start(){
     Serial.begin(9600);
-}
-void loop{
     Serial.println("Hello, World!");
 }
 ```
