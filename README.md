@@ -79,7 +79,7 @@ SELECT "Hello World!";
 - A Discord Bot with https://github.com/Themasterprogrammertech
 - [An Programming Language That I want to work with people on](https://github.com/AwsomeWorkDevoloper/Codelang)
 ### Things about me
-- I like Football(sOcCeR)
+- I like Football(Soccer)
 - I hate snow
 - I live in Canada
 - I once spent 2 Hours trying to fix a bug, that turned out to be a spelling mistake
