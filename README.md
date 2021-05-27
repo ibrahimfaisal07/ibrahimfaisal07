@@ -3,7 +3,7 @@ _____________
 ### Me
 Im still a student and to be honest with you, I have no idea what I wanna be.
 ### Languages I know (With Hello World Programs)
-1. Javascript/Node JS
+1. Javascript/Node JS/Typescript
 ```js
 console.log("Hello, World!");
 ```
