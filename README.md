@@ -50,8 +50,10 @@ int main(){
 7. C++
 ```cpp
 #include <iostream>
+
 int main(){
     std::cout << "Hello, World!";
+    return 0;
 }
 ```
 8. Arduino C++
