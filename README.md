@@ -79,9 +79,9 @@ print("Hello, World!");
 #### Note: I have no idea why it says "hack"
 ### My current projects
 - My own website
-- A Social Media website (I wont spoil any more)
-- A Discord Bot with https://github.com/Themasterprogrammertech
 - [An Programming Language That I want to work with people on](https://github.com/AwsomeWorkDevoloper/Codelang)
+- A Discord Bot with https://github.com/Themasterprogrammertech
+- A social media app inspired by a famous investor
 ### Things about me
 - I like Football(Soccer)
 - I hate snow
