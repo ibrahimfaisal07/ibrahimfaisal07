@@ -1,7 +1,7 @@
 # Hi im Squiggly Hairline
 _____________
 ### Me
-Im still a student and to be honest with you, I have no idea what I wanna be.
+Im still a student and to be honest with you, I just wanna be rich
 ### Languages I know (With Hello World Programs)
 1. Javascript/Node JS/Typescript
 ```js
@@ -80,21 +80,19 @@ print("Hello, World!");
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwsomeWorkDevoloper&layout=compact)](https://github.com/AwsomeWorkDevoloper/github-readme-stats)
 #### Note: I have no idea why it says "hack"
 ### My current projects
-- My own website
-- [An Programming Language That I want to work with people on](https://github.com/AwsomeWorkDevoloper/Codelang)
-- A Discord Bot with https://github.com/Themasterprogrammertech
-- A social media app inspired by a famous investor
+- My own website (on hold rn)
+- [An Programming Language That I want to work with people on](https://github.com/AwsomeWorkDevoloper/Codelang) (on hold rn)
+- StudyAI
+- Sellex (on hold rn)
 ### Things about me
 - I like Football(Soccer)
 - I hate snow
-- I live in Canada
-- I once spent 2 Hours trying to fix a bug, that turned out to be a spelling mistake
+- 🇮🇶 iraqi
+- old enough
 - [I got a coding certificate from these dudes](https://www.arabcoders.ae/)
 ### Social media
 - [Instagram](https://www.instagram.com/squigglyhl/)
-- [My Other Instagram](https://www.instagram.com/squiggly_2nd/)
 - [Twitter (A.K.A. Shit)](https://twitter.com/SquigglyHL)
-- [Discord Server](https://discord.gg/TnJvyzBWHa) (Its still pretty bad tbh)
-- [Other Discord Server](https://discord.gg/KePxjZhgTj)
+- Much more but im not gonna tell you
 __________
 > Squiggly Hairline is not my real name if your dumb
