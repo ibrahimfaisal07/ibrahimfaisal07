@@ -1,4 +1,4 @@
-# Ibrahim
+# Hey I'm Ibrahim
 _____________
 ### Me
 Im still a student and to be honest with you, I just wanna be rich
@@ -82,17 +82,13 @@ print("Hello, World!");
 ### My current projects
 - My own website (on hold rn)
 - [An Programming Language That I want to work with people on](https://github.com/AwsomeWorkDevoloper/Codelang) (on hold rn)
-- StudyAI
-- Sellex (on hold rn)
+- Many others that I'm still planning
 ### Things about me
 - I like Football(Soccer)
 - I hate snow
 - 🇮🇶 iraqi
-- old enough
-- [I got a coding certificate from these dudes](https://www.arabcoders.ae/)
+- [I got a coding certificate from these guys](https://www.arabcoders.ae/)
 ### Social media
 - [Instagram](https://www.instagram.com/squigglyhl/)
-- [Twitter (A.K.A. Shit)](https://twitter.com/SquigglyHL)
 - Much more but im not gonna tell you
 __________
-> Squiggly Hairline is not my real name if your dumb
