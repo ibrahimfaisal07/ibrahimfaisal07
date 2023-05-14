@@ -1,4 +1,4 @@
-# Hi im Squiggly Hairline
+# Ibrahim
 _____________
 ### Me
 Im still a student and to be honest with you, I just wanna be rich
